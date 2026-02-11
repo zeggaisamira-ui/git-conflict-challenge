@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# version modofiée sur GITHUB
